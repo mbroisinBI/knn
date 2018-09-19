@@ -1,0 +1,4 @@
+[
+  "test_knn.py::test_knn_regression",
+  "test_knn.py::test_knn_classification"
+]
